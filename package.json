@@ -1,0 +1,31 @@
+{
+  "name": "aluraflix-api",
+  "version": "1.0.0",
+  "description": "Products for Alura Geek fake store api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://https://github.com/arlenayala/fake-API.git"
+  },
+  "keywords": [
+    "alura",
+    "alurageek",
+    "json-server",
+    "javascript",
+    "API"
+  ],
+  "author": "arlenayala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arlenayala/fake-API.git"
+  },
+  "homepage": "https://github.com/arlenayala/fake-API.git",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
